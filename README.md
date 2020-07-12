@@ -354,7 +354,7 @@ Mappings for:
 | 16.2 | []() |
 | 16.3 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) |
 | 16.4 | []() |
-| 16.5 | []() |
+| 16.5 | [79. Word Search](https://leetcode.com/problems/word-search/) |
 | 16.6 | []() |
 | 16.7 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) |
 | 16.8 | [120. Triangle](https://leetcode.com/problems/triangle/) |
