@@ -148,7 +148,7 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 4.1       | []() |
+| [x] 4.1       | []() |
 | 4.2 | []() |
 | 4.3 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) |
 | 4.4 | []() |
