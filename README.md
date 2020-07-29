@@ -1,4 +1,4 @@
-Mappings for:
+Mappings (to exact/similar problems) for:
 * Java edition &copy; 2019
 * Python edition &copy; 2019
 * C++ edition &copy; 2018
@@ -72,7 +72,7 @@ Mappings for:
     <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">10.6</a></td>
     </tr>
             <tr>
-    <td><a href="">11.1</a></td>
+    <td><a href="https://leetcode.com/problems/binary-search/">11.1</a></td>
     <td><a href="https://leetcode.com/problems/sqrtx/">11.4</a>, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">11.8</a></td>
     <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">11.3</a>, <a href="">11.9</a></td>
     <td><a href="">11.5</a>, <a href="">11.10</a></td>
